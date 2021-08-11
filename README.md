@@ -5,7 +5,9 @@
 - 此项目以各个模块为切入点，让大家有一个清晰的知识体系。
 - 此项目亦可拿来常读、常记以及面试时复习之用。
 - 每一章里的问题都是面试时有可能问到的知识点，如有遗漏可联系我进行补充，结尾处都有算法的**实战代码案例**。
-- **有意向一起完成此项目或者有问题、有补充的可以加入NLP学习群【541954936】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=863f915b9178560bd32ca07cd090a7d9e6f5f90fcff5667489697b1621cecdb3"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP面试学习群" title="NLP面试学习群"></a>**
+- 思维导图，**请关注 AIArea 公众号并回复：NLP思维导图** ，即能下载高清大图。
+- ![](https://github.com/NLP-LOVE/Introduction-NLP/raw/master/img/2020-2-3_16-0-25.png?raw=true)
+
 
 ------
 
@@ -45,11 +47,17 @@
 | NLP      | [16.1 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.1%20Word%20Embedding) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | NLP      | [16.2 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.2%20fastText) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | NLP      | [16.3 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.3%20GloVe) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| NLP      | 16.4 textCNN                                                 |                                         |           |
-| NLP      | 16.5 序列到序列模型(seq2seq)                                 |                                         |           |
-| NLP      | 16.6 注意力机制(Attention Mechanism)                         |                                         |           |
-| NLP      | 16.7 BERT模型                                                |                                         |           |
+| NLP      | [16.4 textRNN & textCNN](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.4%20textRNN%20%26%20textCNN) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| NLP      | [16.5 序列到序列模型(seq2seq)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.5%20seq2seq) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| NLP      | [16.6 注意力机制(Attention Mechanism)](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.6%20Attention) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| NLP      | [16.7 Transformer模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.7%20Transformer) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| NLP      | [16.8 BERT模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.8%20BERT) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| NLP      | [16.9 XLNet模型](https://github.com/NLP-LOVE/ML-NLP/tree/master/NLP/16.9%20XLNet) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| 项目     | [17. 推荐系统(Recommendation System)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Project/17.%20Recommendation%20System) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| 项目     | [18. 智能客服(Intelligent Customer Service)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Project/18.%20Intelligent%20Customer%20Service) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
+| 项目     | 19. 知识图谱(Knowledge Graph)                                |                                         |           |
+| 项目     | 20. 评论分析                                                 |                                         |           |
 
 
 
-> 欢迎大家加入！共同完善此项目！<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=863f915b9178560bd32ca07cd090a7d9e6f5f90fcff5667489697b1621cecdb3"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP面试学习群" title="NLP面试学习群"></a>
+> 欢迎大家加入！共同完善此项目！NLP学习QQ2群【207576902】<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=1defd70810d9e67ca6ab3a30e1425a8a358139315a186dd2192d82a4c0ca1ce9"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP学习群②" title="NLP学习群②"></a>
